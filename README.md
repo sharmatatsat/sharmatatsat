@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tatsat Sharma!
 
 
-[![Linkedin: Tatsat Sharma](https://img.shields.io/badge/-Tatsat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/tatsat-sharma-228679183)](www.linkedin.com/in/tatsat-sharma-228679183)
+[![Linkedin: Tatsat Sharma](https://img.shields.io/badge/-Tatsat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatsat-sharma-228679183/)](https://www.linkedin.com/in/tatsat-sharma-228679183/)
 
 
 
