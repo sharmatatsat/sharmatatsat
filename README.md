@@ -2,6 +2,8 @@
 
 
 [![Linkedin: Tatsat Sharma](https://img.shields.io/badge/-Tatsat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatsat-sharma-228679183/)](https://www.linkedin.com/in/tatsat-sharma-228679183/)
+[![Leetcode: Tatsat Sharma](https://img.shields.io/badge/-Tatsat-black?style=flat-square&logo=Leetcode&logoColor=orange&link=https://https://leetcode.com/u/sharmatatsat23/)]([https://www.linkedin.com/in/tatsat-sharma-228679183/](https://leetcode.com/u/sharmatatsat23/))
+
 
 
 
@@ -23,14 +25,4 @@
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Connect With Me🤝</h2>
-  </ul>
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/parth-ghatge-173b22222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/parth_982_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"  /></a>
-  <a href="https://leetcode.com/parth982/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</div>
